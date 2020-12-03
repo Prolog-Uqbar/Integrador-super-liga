@@ -26,6 +26,8 @@ club(banfield, amba,4).
 
 tienePlata(velez).
 tienePlata(boca).
+tienePlata(racing).
+tienePlata(nob).
 
 clasico(central, nob).
 clasico(banfield, lanus).
@@ -41,7 +43,7 @@ tampoco: boca - lanus - central - banfield
 
 obviamente, tampoco: boca - banfield - central - central
 
-Lo mismo para similares combinaciones, con velez en vez de boca.
+Lo mismo para similares combinaciones, con velez o racing en vez de boca.
 
 Hay muchas otras combinaciones válidas. 
 
